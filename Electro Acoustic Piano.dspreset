@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DS file for Kontakt 6 instrument Electro Acoustic Piano // Converted by Frederic Poirier-->
+<DecentSampler pluginVersion="1">
+  <groups seqMode="round_robin">
+    <group name="Close RR1" seqPosition="1" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="close">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR1_M149.wav" volume="0.0dB" tuning="0.04" rootNote="45" start="4800" end="613711" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR1_M149.wav" volume="0.0dB" tuning="-0.01" rootNote="59" start="4800" end="490820" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR1_M149.wav" volume="0.0dB" tuning="0.01" rootNote="73" start="4800" end="399280" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR1_M149.wav" volume="0.0dB" tuning="0.15" rootNote="24" start="4800" end="681598" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR1_M149.wav" volume="0.0dB" tuning="-0.04" rootNote="87" start="4800" end="305607" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR1_M149.wav" volume="0.0dB" tuning="0.03" rootNote="38" start="4800" end="618560" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR1_M149.wav" volume="0.0dB" tuning="0.01" rootNote="52" start="4800" end="616420" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR1_M149.wav" volume="0.0dB" tuning="-0.02" rootNote="66" start="4800" end="433806" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR1_M149.wav" volume="0.0dB" tuning="0.02" rootNote="80" start="4660" end="386021" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR1_M149.wav" volume="0.0dB" tuning="0.10" rootNote="31" start="4800" end="627784" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Close RR2" seqPosition="2" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="close">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR2_M149.wav" volume="0.0dB" tuning="0.04" rootNote="45" start="4800" end="638313" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR2_M149.wav" volume="0.0dB" tuning="-0.04" rootNote="59" start="4800" end="599303" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR2_M149.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="428365" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR2_M149.wav" volume="0.0dB" tuning="0.08" rootNote="24" start="4800" end="639330" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR2_M149.wav" volume="0.0dB" tuning="-0.04" rootNote="87" start="4800" end="239547" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR2_M149.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="660870" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR2_M149.wav" volume="0.0dB" tuning="0.02" rootNote="52" start="4800" end="559517" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR2_M149.wav" volume="0.0dB" tuning="-0.10" rootNote="66" start="4800" end="480924" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR2_M149.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="404415" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR2_M149.wav" volume="0.0dB" tuning="0.12" rootNote="31" start="4800" end="602117" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Close RR3" seqPosition="3" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="close">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR3_M149.wav" volume="0.0dB" tuning="0.02" rootNote="45" start="4800" end="686326" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR3_M149.wav" volume="0.0dB" tuning="-0.04" rootNote="59" start="4800" end="625216" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR3_M149.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="618080" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR3_M149.wav" volume="0.0dB" tuning="0.19" rootNote="24" start="4800" end="648374" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR3_M149.wav" volume="0.0dB" tuning="-0.04" rootNote="87" start="4800" end="308725" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR3_M149.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="696736" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR3_M149.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="567001" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR3_M149.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="509783" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR3_M149.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="329433" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR3_M149.wav" volume="0.0dB" tuning="0.07" rootNote="31" start="4800" end="544869" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Stereo RR1" seqPosition="1" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="stereo">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR1_KM84.wav" volume="0.0dB" tuning="0.05" rootNote="45" start="4800" end="613711" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR1_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="490820" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR1_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="399280" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR1_KM84.wav" volume="0.0dB" tuning="0.08" rootNote="24" start="4800" end="681598" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR1_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="305607" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR1_KM84.wav" volume="0.0dB" tuning="0.03" rootNote="38" start="4800" end="618560" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR1_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="616420" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR1_KM84.wav" volume="0.0dB" tuning="-0.05" rootNote="66" start="4800" end="433806" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR1_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="386021" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR1_KM84.wav" volume="0.0dB" tuning="0.03" rootNote="31" start="4800" end="627784" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Stereo RR2" seqPosition="2" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="stereo">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR2_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="45" start="4800" end="638313" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR2_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="599303" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR2_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="428365" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR2_KM84.wav" volume="0.0dB" tuning="0.09" rootNote="24" start="4800" end="639330" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR2_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="239547" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR2_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="660870" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR2_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="559517" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR2_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="480924" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR2_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="404415" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR2_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="31" start="4800" end="602117" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Stereo RR3" seqPosition="3" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="stereo">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR3_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="45" start="4800" end="686326" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR3_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="625216" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR3_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="618080" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR3_KM84.wav" volume="0.0dB" tuning="0.08" rootNote="24" start="4800" end="648374" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR3_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="308725" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR3_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="696736" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR3_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="567001" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR3_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="509783" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR3_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="329433" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR3_KM84.wav" volume="0.0dB" tuning="0.00" rootNote="31" start="4800" end="544869" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Amp RR1" seqPosition="1" 		volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="amp">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR1_amp.wav" volume="0.0dB" tuning="0.00" rootNote="45" start="4800" end="613711" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR1_amp.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="490820" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR1_amp.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="399280" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR1_amp.wav" volume="0.0dB" tuning="0.00" rootNote="24" start="4800" end="681598" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR1_amp.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="305607" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR1_amp.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="618560" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR1_amp.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="616420" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR1_amp.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="433806" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR1_amp.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="386021" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR1_amp.wav" volume="0.0dB" tuning="0.00" rootNote="31" start="4800" end="627784" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Amp RR2" seqPosition="2" 		volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="amp">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR2_amp.wav" volume="0.0dB" tuning="0.00" rootNote="45" start="4800" end="638313" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR2_amp.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="599303" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR2_amp.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="428365" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR2_amp.wav" volume="0.0dB" tuning="0.09" rootNote="24" start="4800" end="639330" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR2_amp.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="239547" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR2_amp.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="660870" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR2_amp.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="559517" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR2_amp.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="480924" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR2_amp.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="404415" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR2_amp.wav" volume="0.0dB" tuning="0.00" rootNote="31" start="4800" end="602117" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Amp RR3" seqPosition="3" 		volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="amp">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR3_amp.wav" volume="0.0dB" tuning="0.00" rootNote="45" start="4800" end="686326" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR3_amp.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="625216" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR3_amp.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="618080" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR3_amp.wav" volume="0.0dB" tuning="0.08" rootNote="24" start="4800" end="648374" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR3_amp.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="308725" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR3_amp.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="696736" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR3_amp.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="567001" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR3_amp.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="509783" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR3_amp.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="329433" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR3_amp.wav" volume="0.0dB" tuning="0.00" rootNote="31" start="4800" end="544869" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Electric RR1" seqPosition="1" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="elec">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR1_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="45" start="4800" end="613711" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR1_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="490820" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR1_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="399280" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR1_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="24" start="4800" end="681598" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR1_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="305607" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR1_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="618560" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR1_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="616420" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR1_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="433806" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR1_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="386021" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR1_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="31" start="4800" end="627784" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Electric RR2" seqPosition="2" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="elec">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR2_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="45" start="4800" end="638313" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR2_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="599303" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR2_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="428365" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR2_Rho.wav" volume="0.0dB" tuning="0.09" rootNote="24" start="4800" end="639330" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR2_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="239547" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR2_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="660870" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR2_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="559517" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR2_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="480924" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR2_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="404415" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR2_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="31" start="4800" end="602117" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Electric RR3" seqPosition="3" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="elec">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR3_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="45" start="4800" end="686326" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR3_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="625216" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR3_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="618080" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR3_Rho.wav" volume="0.0dB" tuning="0.08" rootNote="24" start="4800" end="648374" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR3_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="308725" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR3_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="696736" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR3_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="567001" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR3_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="509783" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR3_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="329433" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR3_Rho.wav" volume="0.0dB" tuning="0.00" rootNote="31" start="4800" end="544869" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Noise RR1" seqPosition="1" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="noise">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR1_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="45" start="4800" end="613711" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR1_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="490820" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR1_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="399280" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR1_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="24" start="4800" end="681598" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR1_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="305607" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR1_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="618560" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR1_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="616420" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR1_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="433806" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR1_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="386021" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR1_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="31" start="4800" end="627784" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Noise RR2" seqPosition="2" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="noise">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR2_RhoTop.wav" volume="0.0dB" tuning="0.06" rootNote="45" start="4800" end="638313" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR2_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="599303" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR2_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="428365" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR2_RhoTop.wav" volume="0.0dB" tuning="0.09" rootNote="24" start="4800" end="639330" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR2_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="239547" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR2_RhoTop.wav" volume="0.0dB" tuning="0.05" rootNote="38" start="4800" end="660870" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR2_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="52" start="4800" end="559517" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR2_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="480924" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR2_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="404415" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR2_RhoTop.wav" volume="0.0dB" tuning="0.08" rootNote="31" start="4800" end="602117" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Noise RR3" seqPosition="3" 	volume="0.0dB" tuning="0.0" ampVelTrack="1" tags="noise">
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_A1_RR3_RhoTop.wav" volume="0.0dB" tuning="0.04" rootNote="45" start="4800" end="686326" loNote="39" hiNote="45" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_B2_RR3_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="59" start="4800" end="625216" loNote="53" hiNote="59" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C#4_RR3_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="73" start="4800" end="618080" loNote="67" hiNote="73" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_C0_RR3_RhoTop.wav" volume="0.0dB" tuning="0.08" rootNote="24" start="4800" end="648374" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D#5_RR3_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="87" start="4800" end="308725" loNote="81" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_D1_RR3_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="38" start="4800" end="696736" loNote="32" hiNote="38" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_E2_RR3_RhoTop.wav" volume="0.0dB" tuning="0.01" rootNote="52" start="4800" end="567001" loNote="46" hiNote="52" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_F#3_RR3_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="4800" end="509783" loNote="60" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G#4_RR3_RhoTop.wav" volume="0.0dB" tuning="0.00" rootNote="80" start="4800" end="329433" loNote="74" hiNote="80" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Long_mf_G0_RR3_RhoTop.wav" volume="0.0dB" tuning="0.05" rootNote="31" start="4800" end="544869" loNote="25" hiNote="31" loVel="1" hiVel="127" />
+    </group>
+    <group name="Pad" seqPosition="1" 						volume="-6.0dB" tuning="0.0" ampVelTrack="1" tags="pad">
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C0_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="24" start="0" end="728064" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C1_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="36" start="0" end="714752" loNote="31" hiNote="36" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C2_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="48" start="0" end="730112" loNote="43" hiNote="48" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C3_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="60" start="0" end="688128" loNote="55" hiNote="60" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C4_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="72" start="0" end="675840" loNote="67" hiNote="72" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C5_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="84" start="0" end="538624" loNote="79" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#0_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="30" start="0" end="735232" loNote="25" hiNote="30" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#1_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="42" start="0" end="732160" loNote="37" hiNote="42" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#2_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="54" start="0" end="699392" loNote="49" hiNote="54" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#3_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="0" end="690176" loNote="61" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#4_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="78" start="0" end="624640" loNote="73" hiNote="78" loVel="1" hiVel="127" />
+    </group>
+    <group name="Pad" seqPosition="2" 					volume="-6.0dB" tuning="0.0" ampVelTrack="1" tags="pad">
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C0_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="24" start="0" end="728064" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C1_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="36" start="0" end="714752" loNote="31" hiNote="36" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C2_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="48" start="0" end="730112" loNote="43" hiNote="48" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C3_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="60" start="0" end="688128" loNote="55" hiNote="60" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C4_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="72" start="0" end="675840" loNote="67" hiNote="72" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C5_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="84" start="0" end="538624" loNote="79" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#0_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="30" start="0" end="735232" loNote="25" hiNote="30" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#1_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="42" start="0" end="732160" loNote="37" hiNote="42" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#2_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="54" start="0" end="699392" loNote="49" hiNote="54" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#3_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="0" end="690176" loNote="61" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#4_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="78" start="0" end="624640" loNote="73" hiNote="78" loVel="1" hiVel="127" />
+    </group>
+    <group name="Pad" seqPosition="3" 							volume="-6.0dB" tuning="0.0" ampVelTrack="1" tags="pad">
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C0_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="24" start="0" end="728064" loNote="21" hiNote="24" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C1_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="36" start="0" end="714752" loNote="31" hiNote="36" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C2_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="48" start="0" end="730112" loNote="43" hiNote="48" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C3_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="60" start="0" end="688128" loNote="55" hiNote="60" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C4_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="72" start="0" end="675840" loNote="67" hiNote="72" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_C5_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="84" start="0" end="538624" loNote="79" hiNote="89" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#0_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="30" start="0" end="735232" loNote="25" hiNote="30" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#1_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="42" start="0" end="732160" loNote="37" hiNote="42" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#2_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="54" start="0" end="699392" loNote="49" hiNote="54" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#3_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="66" start="0" end="690176" loNote="61" hiNote="66" loVel="1" hiVel="127" />
+      <sample path="Samples/ElectroAcoustic_Sus_Pad_mf_F#4_RR1_pad.wav" volume="0.0dB" tuning="0.00" rootNote="78" start="0" end="624640" loNote="73" hiNote="78" loVel="1" hiVel="127" />
+    </group>
+  </groups>
+
+
+  <ui bgImage="Resources/bg4.png" width="812" height="600" layoutMode="relative" bgColor="FF000000"
+      bgMode="top_left">
+    <tab name="main">
+    
+      	<labeled-knob x="45" y="340" label="Piano" type="float" minValue="0.0" maxValue="1" value="1" textColor="FFFFFFFF"
+      	textSize="16" width="80" height="80" showLabel="false" trackForegroundColor="FFFFFFFF" trackBackgroundColor="80808080">
+    	<binding type="amp" level="tag" identifier="close" parameter="AMP_VOLUME" />
+		</labeled-knob>
+		
+      	<labeled-knob x="151" y="340" label="Mix" type="float" minValue="0.0" maxValue="1" value="0.5" textColor="FFFFFFFF"
+      	textSize="16" width="80" height="80" showLabel="false" trackForegroundColor="FFFFFFFF" trackBackgroundColor="80808080">
+    	<binding type="amp" level="tag" identifier="stereo" parameter="AMP_VOLUME" />
+		</labeled-knob>
+    
+      	<labeled-knob x="258" y="340" label="Amp" type="float" minValue="0.0" maxValue="1" value="1" textColor="FFFFFFFF"
+      	textSize="16" width="80" height="80" showLabel="false" trackForegroundColor="FFFFFFFF" trackBackgroundColor="80808080">
+    	<binding type="amp" level="tag" identifier="amp" parameter="AMP_VOLUME" />
+		</labeled-knob>
+		
+      	<labeled-knob x="470" y="340" label="Electric" type="float" minValue="0.0" maxValue="1" value="0.5" textColor="FFFFFFFF"
+      	textSize="16" width="80" height="80" showLabel="false" trackForegroundColor="FFFFFFFF" trackBackgroundColor="80808080">
+    	<binding type="amp" level="tag" identifier="elec" parameter="AMP_VOLUME" />
+		</labeled-knob>
+		
+      	<labeled-knob x="576" y="340" label="Noise" type="float" minValue="0.0" maxValue="1" value="0.75" textColor="FFFFFFFF"
+      	textSize="16" width="80" height="80" showLabel="false" trackForegroundColor="FFFFFFFF" trackBackgroundColor="80808080">
+    	<binding type="amp" level="tag" identifier="noise" parameter="AMP_VOLUME" />
+		</labeled-knob>
+		
+      	<labeled-knob x="682" y="340" label="Pad" type="float" minValue="0.0" maxValue="1" value="0" textColor="FFFFFFFF"
+      	textSize="16" width="80" height="80" showLabel="false" trackForegroundColor="FFFFFFFF" trackBackgroundColor="80808080">
+    	<binding type="amp" level="tag" identifier="pad" parameter="AMP_VOLUME" />
+		</labeled-knob>
+      
+		<labeled-knob x="576" y="90" label="reverb" type="float" minValue="0.0" maxValue="1" value="0.1" textColor="FFFFFFFF"
+		textSize="16" width="80" height="80" showLabel="false" trackForegroundColor="FFFFFFFF" trackBackgroundColor="80808080">
+        <binding type="effect" level="instrument" position="1" parameter="FX_REVERB_WET_LEVEL"/>
+		</labeled-knob>
+		
+		<labeled-knob x="576" y="210" label="chorus" type="float" minValue="0.0" maxValue="1" value="0.0" textColor="FFFFFFFF"
+		textSize="16" width="80" height="80" showLabel="false" trackForegroundColor="FFFFFFFF" trackBackgroundColor="80808080">
+        <binding type="effect" level="instrument" position="2" parameter="FX_MIX"/>
+		</labeled-knob>
+      
+		<labeled-knob x="151" y="90" label="attack" type="float" minValue="0.0" maxValue="2.0" value="0.002" textColor="FFFFFFFF"
+		textSize="16" width="80" height="80" showLabel="false" trackForegroundColor="FFFFFFFF" trackBackgroundColor="80808080">
+        <binding type="amp" level="instrument" position="2" parameter="ENV_ATTACK" />
+		</labeled-knob>
+		
+		<labeled-knob x="151" y="210" label="release" type="float" minValue="0.0" maxValue="10.0" value="2.35" textColor="FFFFFFFF"
+		textSize="16" width="80" height="80" showLabel="false" trackForegroundColor="FFFFFFFF" trackBackgroundColor="80808080">
+        <binding type="amp" level="instrument" position="2" parameter="ENV_RELEASE" />
+		</labeled-knob>
+      
+    </tab>
+  </ui>
+
+  <effects>
+    <effect type="lowpass_4pl" frequency="22000.0"/>
+    <effect type="reverb" wetLevel="0" roomSize="0.85" damping="O.2"/>
+    <effect type="chorus" mix="0" modDepth="0.02" modRate="2.8"/>
+  </effects>
+  
+</DecentSampler>

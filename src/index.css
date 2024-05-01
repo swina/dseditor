@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@tailwind base;
+@tailwind components;
+.hide { opacity: 0 }
+input { background-color: #393737; color: white; padding:2px 4px; border-radius:5px; }
+input:focus { border: 0;}
+.logoFont { font-family: 'Montserrat' }
+.btn-sm {
+  background: #0f0e0e;
+  color:white;
+  padding: 2px 4px;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+@tailwind utilities;
+
